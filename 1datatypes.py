@@ -8,3 +8,7 @@ F = 6==7
 print(F)
 
 print(not(True))
+a = 12
+b = 10
+c = a + b
+print(c)

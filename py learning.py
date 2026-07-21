@@ -44,5 +44,5 @@ So I'm never gonna dance again
 The way I danced with you, oh
 now that you're gone
 (Now that you're gone) was what I did so wrong, so wrong
-That you had to leave me alone?
+That you had to leave me alone? 
 ''')
